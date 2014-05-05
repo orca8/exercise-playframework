@@ -15,3 +15,13 @@ server.pid
 *.eml
 /dist/
 .cache
+/.idea
+/out
+/.idea_modules
+/.classpath
+/.project
+/RUNNING_PID
+/.settings
+
+# specific settings
+conf/secret.conf
